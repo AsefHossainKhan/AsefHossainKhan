@@ -34,14 +34,7 @@ Graduate from AIUB (American International University-Bangladesh) on CSSE (Compu
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AsefHossainKhan)  
 
-<hr/>
-<h2 align="center"> BADGES </h2>
 
-<div align="center">  
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> 
-</div>
-
-<hr />
 
 ![Profile views](https://gpvc.arturio.dev/AsefHossainKhan)  
 
