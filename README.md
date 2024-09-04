@@ -1,10 +1,14 @@
 ## Asef Hossain Khan
 ### Software/App Developer
-![Software/App Developer](https://cdn.otherperspectives.me/images/E8MFUdN138Dgsk77dZZd3y4je5vObSuPCURya2P2.png)
+<div align="center">
+  <img src="https://quotefancy.com/media/wallpaper/3840x2160/58803-Maya-Angelou-Quote-Do-the-best-you-can-until-you-know-better-Then.jpg" align=center alt="Maya Angelou Quote, Do your best" width=75%>
+</div>
 
-Graduate from AIUB (American International University-Bangladesh) on CSSE (Computer Science and Software Engineering).
+#### Software Engineer at BJIT
 
-## Skills: ReactJS, NodeJS, ExpressJS, .NET  
+#### Graduate from AIUB (American International University-Bangladesh) on CSSE (Computer Science and Software Engineering).
+
+## Skills: Android, ReactJS, NodeJS, NestJS  
 
 <br/>
 
@@ -26,16 +30,5 @@ Graduate from AIUB (American International University-Bangladesh) on CSSE (Compu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsefHossainKhan)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsefHossainKhan&show_icons=true)  
-
-<hr />
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AsefHossainKhan)  
-
-
-
-![Profile views](https://gpvc.arturio.dev/AsefHossainKhan)  
 
 </div align="center">
